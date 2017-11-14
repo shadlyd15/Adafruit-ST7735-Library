@@ -24,3 +24,10 @@ To download. click the DOWNLOADS button in the top right corner, rename the unco
 Place the Adafruit_ST7735 library folder your <arduinosketchfolder>/libraries/ folder. You may need to create the libraries subfolder if its your first library. Restart the IDE
 
 Also requires the Adafruit_GFX library for Arduino.
+
+# Notes for Cheap KMR 1.8 LCD
+
+- A0 -> DC
+- CS -> CS
+- SDA -> MOSI
+- SCK -> SCK
